@@ -217,7 +217,7 @@ Data is persisted in `db.json` by JSON Server:
 ## 🚀 Deployment
 
 ### Live Demo
-[Visit the deployed application](#) - *(Link to be added after deployment)*
+[[Visit the deployed application](#)](https://creator-portal-542da.web.app/) - *(Link to be added after deployment)*
 
 ### Deployment Instructions
 
